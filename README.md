@@ -1,6 +1,5 @@
 ## Hi there 👋
-![My Image](https://github.com/AstikFantastic/AstikFantastic/blob/main/Leonardo_Phoenix_10_Vibrant_2D_illustration_of_a_bright_yellow_1.jpg)
-<img src="[путь_к_картинке](https://github.com/AstikFantastic/AstikFantastic/blob/main/Leonardo_Phoenix_10_Vibrant_2D_illustration_of_a_bright_yellow_1.jpg)" width="10" height="10" alt="My Image" style="vertical-align: middle;" /> Это текст, который будет сбоку.
+<img src="https://github.com/AstikFantastic/AstikFantastic/blob/main/Leonardo_Phoenix_10_Vibrant_2D_illustration_of_a_bright_yellow_1.jpg" width="10" height="10" alt="My Image" style="vertical-align: middle;" /> Это текст, который будет сбоку.
 
 <!--
 **AstikFantastic/AstikFantastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
