@@ -1,4 +1,5 @@
 ## Hi there 👋
+![My Image]([images/myimage.png](https://github.com/AstikFantastic/AstikFantastic/blob/main/Leonardo_Phoenix_10_Vibrant_2D_illustration_of_a_bright_yellow_1.jpg))
 
 <!--
 **AstikFantastic/AstikFantastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
