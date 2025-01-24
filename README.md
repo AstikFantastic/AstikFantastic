@@ -5,7 +5,7 @@ Ever since I started my journey, I've been exploring various aspects of iOS deve
 
 Skills: SWIFT/UIKIT/Networking/GCD/Core Data/CocoaPods/SPM/MVP
 
-- 🔭 I’m currently working on a thesis project to create an analog of Yandex Disk using their API. 
+- 🔭 I’m currently working on my thesis project to develop a mobile app for accessing user files on Yandex Disk.
 - 🌱 I’m currently learning SwiftUI 
 
 
