@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm **Astimir**
-#### A passionate aspiring **iOS developer**.  
+#### An aspiring **iOS developer**.  
 I'm eager to grow in this field and dedicate countless hours to learning and improving my skills.  
 Ever since I started my journey, I've been exploring various aspects of iOS development, constantly working on new projects, and expanding my knowledge every day.  
 
