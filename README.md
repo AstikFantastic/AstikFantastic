@@ -4,7 +4,8 @@ I'm eager to grow in this field and dedicate countless hours to learning and imp
 Ever since I started my journey, I've been exploring various aspects of iOS development, constantly working on new projects, and expanding my knowledge every day.  
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg" width="170" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="100" height="100" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" height="100" />
+          
 
 Skills: UIKIT/Networking/GCD/Core Data/CocoaPods/SPM/MVP
 
