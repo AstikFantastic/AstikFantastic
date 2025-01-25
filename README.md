@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm **Astimir**
-#### An aspiring **iOS developer**. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="25" height="25" />
+#### An aspiring **iOS developer** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="20" height="20" />
 I'm eager to grow in this field and dedicate countless hours to learning and improving my skills.  
 Ever since I started my journey, I've been exploring various aspects of iOS development, constantly working on new projects, and expanding my knowledge every day.  
 
