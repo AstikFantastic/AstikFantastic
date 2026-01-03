@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Astimir  
-## Junior iOS Developer
+## Hi there 👋, I'm Astimir  
+### Junior iOS Developer
 
 I develop iOS applications using Swift and UIKit, focusing on clean architecture,
 asynchronous networking, and maintainable code.
