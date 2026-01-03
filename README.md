@@ -1,12 +1,17 @@
-### Hi there 👋, I'm **Astimir**
-#### An aspiring **iOS developer** 
-I'm eager to grow in this field and dedicate countless hours to learning and improving my skills.  
-Ever since I started my journey, I've been exploring various aspects of iOS development, constantly working on new projects, and expanding my knowledge every day.  
+### Hi there 👋, I'm Astimir  
+## Junior iOS Developer
 
-Skills: Swift/UIKIT/Networking/GCD/Core Data/CocoaPods/SPM/MVP
+I develop iOS applications using Swift and UIKit, focusing on clean architecture,
+asynchronous networking, and maintainable code.
+I have hands-on experience with REST APIs, local data storage, and multi-threading.
 
-- 👨🏻‍💻 I’m currently working on my thesis project to develop a mobile app for accessing user files on Yandex Disk.
-- 📖 I’m currently learning SwiftUI 
+I’m interested in product development, improving existing features,
+refactoring legacy code, and building reliable iOS applications.
+
+**Skills:**  
+Swift · UIKit · Networking · GCD · CoreData · CocoaPods · SPM · MVP
+
+📖 Exploring SwiftUI and modern iOS development approaches.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" />
           
